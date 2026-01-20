@@ -1,4 +1,4 @@
-# Derga-Hamada
+# hamada1m
 ### Hi there, I'm Hamada! 👋
 
 I am a **Master's Student in ISIDS** (Information Systems and Decision Support) at the University of Batna 2.
