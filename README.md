@@ -25,4 +25,5 @@ I balance my time between academic research, distributed systems, and exploring 
 ---
 
 ### 📊 GitHub Stats
-![Hamada's GitHub stats](https://github-readme-stats.vercel.app/api?username=hamada1m&show_icons=true&theme=radical)
+![Hamada's GitHub stats](https://github-readme-stats.vercel.app/api?username=Derga-Hamada
+&show_icons=true&theme=radical)
