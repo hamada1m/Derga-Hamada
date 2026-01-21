@@ -27,3 +27,4 @@ I balance my time between academic research, distributed systems, and exploring 
 ### 📊 GitHub Stats
 ![Hamada's GitHub stats](https://github-readme-stats.vercel.app/api?username=Derga-Hamada&show_icons=true&theme=radical)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([www.linkedin.com/in/hamada-derga](https://www.linkedin.com/in/hamada-derga/))
+[![Portfolio](https://img.shields.io/badge/Portfolio-181717?style=flat&logo=github&logoColor=white)](https://derga-hamada.github.io/)
